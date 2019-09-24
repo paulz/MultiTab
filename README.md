@@ -4,6 +4,6 @@ User can edit tabs order and select most frequently access tabs to be visible. T
 
 
 | More Tab  | Edit More | Reorder |
-| ------------- | ------------- | --- |
+| --------- | --------- | ------- |
 |<img src="https://github.com/paulz/MultiTab/blob/master/MoreTab.png?raw=true"/>|<img src="https://github.com/paulz/MultiTab/blob/master/EditMore.png?raw=true"/>|<img src="https://github.com/paulz/MultiTab/blob/master/RearrangeTabs.png?raw=true"/>|
 
