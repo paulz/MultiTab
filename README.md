@@ -3,5 +3,7 @@
 User can edit tabs order and select most frequently access tabs to be visible. The other tabs will be accessible via More.
 
 
-<img src="https://github.com/paulz/MultiTab/blob/master/MoreTab.png?raw=true" width="30%"/>   <img src="https://github.com/paulz/MultiTab/blob/master/EditMore.png?raw=true" width="30%"/>   <img src="https://github.com/paulz/MultiTab/blob/master/RearrangeTabs.png?raw=true" width="30%"/>
+| More Tab  | Edit More | Reorder |
+| ------------- | ------------- | --- |
+|<img src="https://github.com/paulz/MultiTab/blob/master/MoreTab.png?raw=true"/>|<img src="https://github.com/paulz/MultiTab/blob/master/EditMore.png?raw=true"/>|<img src="https://github.com/paulz/MultiTab/blob/master/RearrangeTabs.png?raw=true"/>|
 
